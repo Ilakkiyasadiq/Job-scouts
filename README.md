@@ -24,3 +24,4 @@ Parsing Tools: python-docx, PyPDF2, lxml
 Utility Libraries: NumPy, SciPy, Joblib
 
 Model Hosting: Hugging Face Hub
+![Screenshot 2025-04-24 225123](https://github.com/user-attachments/assets/eaf08339-2e49-4cde-85a5-fcdd3e5eba84)
