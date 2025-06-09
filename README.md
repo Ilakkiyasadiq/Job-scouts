@@ -1,4 +1,6 @@
 JOB SCOUTS
+
+
 JOB SCOUTS is an AI-powered resume screening backend system built to automate and enhance the recruitment workflow. Leveraging natural language processing and transformer-based models, it evaluates candidate resumes against defined criteria and automates email communication for shortlisted candidates.
 
 Project Overview
